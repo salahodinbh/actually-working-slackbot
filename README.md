@@ -1,3 +1,4 @@
+The variables in .env are purely for testing hence no harm in exposing them. For production systems these should not be in no way exposed.
 To operate this bot:
 - Installing slack's packages through pip is required
 - Installing Flask is required
